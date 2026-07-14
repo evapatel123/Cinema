@@ -16,9 +16,33 @@ An interactive AI-powered cinema experience built with **Python** and **Gradio**
 
 ---
 
-## 📸 Preview
+## 📸 Screenshots
 
-coming soon
+<h2>📸 Screenshots</h2>
+
+<p align="center">
+  <img src="#" width="90%">
+  <br>
+  <em>Landing Page</em>
+</p>
+
+<p align="center">
+  <img src="#" width="90%">
+  <br>
+  <em>Interactive AI Conversation</em>
+</p>
+
+<p align="center">
+  <img src="#" width="90%">
+  <br>
+  <em>Cinema Experience</em>
+</p>
+
+<p align="center">
+  <img src="#" width="90%">
+  <br>
+  <em>Cinema Experience</em>
+</p>
 
 ---
 
