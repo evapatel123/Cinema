@@ -93,10 +93,10 @@ This repository includes my own improvements to the original project, including:
 
 ## 🤝 Acknowledgments
 
-This project is based on the original **LLM Cinema** project from the Hugging Face Build Small Hackathon (Creative Common Labs).
+This project is based off the original **LLM Cinema** project from the Hugging Face Build Small Hackathon (Creative Common Labs). Huge shoutout for Creative Common labs for giving such a wonderful project idea!
 
 Project Preview:
-https://huggingface.co/spaces/build-small-hackathon/llm-cinema
+https://build-small-hackathon-llm-cinema.hf.space/
 
 ---
 
