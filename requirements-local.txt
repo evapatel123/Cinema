@@ -1,0 +1,16 @@
+# Off-grid local director: run the Cinema model on CPU via llama.cpp (GGUF).
+# No GPU, no cloud. Install with:  pip install -r requirements-local.txt
+#
+# llama-cpp-python bundles a recent llama.cpp build with MiniCPM3 (arch "minicpm3")
+# support. 0.3.x is the first series broad enough to cover MiniCPM3 reliably;
+# pin a known-good release. A prebuilt CPU wheel exists for common platforms, so
+# this does not require a C++ toolchain in the usual case.
+llama-cpp-python==0.3.2
+
+# OpenAI-compatible HTTP server (serve_llamacpp.py).
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+
+# Used by the conversion/quantization steps in LOCAL_LLAMACPP.md to pull the
+# fp16 weights (or the official openbmb/MiniCPM3-4B-GGUF) from the Hub.
+huggingface_hub==0.26.5
