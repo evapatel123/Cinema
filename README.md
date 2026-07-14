@@ -19,27 +19,27 @@ An interactive AI-powered cinema experience built with **Python** and **Gradio**
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="#" width="90%">
+  <img src="initial-appearance.png" width="90%">
   <br>
-  <em>Landing Page</em>
+  <em>First glance of the opening page</em>
 </p>
 
 <p align="center">
-  <img src="#" width="90%">
+  <img src="creating-cinema.png" width="90%">
   <br>
-  <em>Interactive AI Conversation</em>
+  <em>You type in a prompt or use one of the sample prompts. Click on the make and play play button to see this</em>
 </p>
 
 <p align="center">
-  <img src="#" width="90%">
+  <img src="prompt-intro-preview.png" width="90%">
   <br>
-  <em>Cinema Experience</em>
+  <em>LLM Cinema will try to make your short movie</em>
 </p>
 
 <p align="center">
-  <img src="#" width="90%">
+  <img src="cinema-started" width="90%">
   <br>
-  <em>Cinema Experience</em>
+  <em>Sit back and enjoy your short movie!!</em>
 </p>
 
 ---
