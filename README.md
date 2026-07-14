@@ -18,8 +18,6 @@ An interactive AI-powered cinema experience built with **Python** and **Gradio**
 
 ## 📸 Screenshots
 
-<h2>📸 Screenshots</h2>
-
 <p align="center">
   <img src="#" width="90%">
   <br>
