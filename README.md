@@ -37,7 +37,7 @@ An interactive AI-powered cinema experience built with **Python** and **Gradio**
 </p>
 
 <p align="center">
-  <img src="media/cinema-started" width="90%">
+  <img src="media/cinema-started.png" width="90%">
   <br>
   <em>Sit back and enjoy your short movie!!</em>
 </p>
